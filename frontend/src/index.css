@@ -13,21 +13,27 @@ body {
 main{
   flex: 1;
 }
+.btn-primary{
+  background-color: #f0c040;
+  color: black;
+}
 .products{
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
 }
 
+.rating span{
+  color:#ffc000;
+}
 .product{
   border: 1px black solid;
   margin: 1rem;
 }
 
-.product img{
+.card-img-top{
   width: 100%;
   height: 75%;
-  max-width: 400px;
 }
 
 .product-info{
