@@ -18,7 +18,7 @@ const data = {
             category:'Dress',
             image: '/images/p2.webp',
             price: 45,
-            countInStock: 5,
+            countInStock: 0,
             brand: 'Wild Fable',
             rating: 4.5,
             numReviews: 14,
