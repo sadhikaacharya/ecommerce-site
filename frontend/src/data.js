@@ -1,7 +1,7 @@
 const data = {
     products: [
         {
-            _id: '1',
+            //_id: '1',
             name: 'Rib Knit Cardigan',
             slug: 'rib-knit-cardigan',
             category:'Tops',
@@ -14,7 +14,7 @@ const data = {
             description: 'trendy cardigan top'
         },
         {
-            _id: '2',
+            //_id: '2',
             name: 'Bodycon dress',
             slug: 'bodycon-dress',
             category:'Dress',
@@ -27,7 +27,7 @@ const data = {
             description: 'party dresses'
         },
         {
-            _id: '3',
+            //_id: '3',
             name: 'Floral Dress',
             slug: 'floral-dress',
             category:'Dress',
@@ -40,7 +40,7 @@ const data = {
             description: 'cute summer dress'
         },
         {
-            _id: '4',
+            //_id: '4',
             name: 'Plain Crop Top',
             slug: 'plain-crop-top',
             category:'Tops',
